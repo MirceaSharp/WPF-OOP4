@@ -1,0 +1,21 @@
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\WPF OOP 4.exe.config
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\WPF OOP 4.exe
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\WPF OOP 4.pdb
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\MainWindow.g.cs
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\App.g.cs
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4_MarkupCompile.cache
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4_MarkupCompile.lref
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\MainWindow.baml
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4.g.resources
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF_OOP_4.Properties.Resources.resources
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4.exe
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4.pdb
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\System.IO.Packaging.dll
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\System.Management.Automation.dll
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\mirce\source\repos\WPF OOP 4\WPF OOP 4\obj\Debug\WPF OOP 4.csproj.CopyComplete
